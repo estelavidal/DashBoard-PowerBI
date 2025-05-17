@@ -22,5 +22,5 @@ O objetivo do projeto é demonstrar habilidades em:
 ## Prints do Projeto
 O PDF deste repositório contém capturas de tela que ilustram o dashboard final entregue.
 
-## 🚀 Como visualizar
+## Como visualizar
 Para reproduzir o dashboard, é necessário ter a ferramenta [Power BI Desktop](https://powerbi.microsoft.com/pt-br/desktop/) instalada.
